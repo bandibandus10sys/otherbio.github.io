@@ -13,7 +13,7 @@ function navigateTo(section) {
             window.location.href = 'projects/index.html';
             break;
         case 'contact':
-            window.location.href = 'contact.html';
+            window.location.href = '';
             break;
         case 'github':
             window.open('https://github.com/bandibandus10sys/', '_blank');
