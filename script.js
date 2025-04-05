@@ -16,7 +16,7 @@ function navigateTo(section) {
             window.location.href = 'contact.html';
             break;
         case 'github':
-            window.open('https://github.com/bandileon/', '_blank');
+            window.open('https://github.com/bandibandus10sys/', '_blank');
             break;
         default:
             console.log('Invalid section');
